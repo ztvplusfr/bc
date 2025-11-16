@@ -1,0 +1,94 @@
+{
+  "id": 1,
+  "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+  "original_title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+  "description": "Un jeune heros trahi par ses allies dans un donjon oublie decouvre qu'il possede un don unique de niveau 9999. Avec des capacites de gacha illimitees, il se lance dans une quete de vengeance epice pour demasquer les traitres et devenir le plus puissant aventurier de tous les temps.",
+  "poster": "https://image.tmdb.org/t/p/original/ebC8JTE369t4in6g02oCU0uRsMq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vnTrREtP0qBSmZHEEZR515FAXXB.jpg",
+  "age_rating": "13+",
+  "rating": 8.2,
+  "year": "2024",
+  "release_date": "2024-01-15",
+  "duration": "24",
+  "genre": ["Anime", "Aventure", "Fantasy", "Action"],
+  "episodes": 12,
+  "seasons": 1,
+  "status": "En cours",
+  "studio": "Sunrise Studio",
+  "director": "Takeshi Yamamoto",
+  "language": "Français",
+  "subtitles": ["Français", "Anglais", "Japonais", "Espagnol"],
+  "trailer": "https://www.youtube.com/embed/example-my-gift-9999",
+  "streaming_url": "/stream/my-gift-lvl-9999",
+  "related_movies": [2, 3, 4],
+  "season_details": [
+    {
+      "season_number": 1,
+      "title": "La Vengeance Commence",
+      "episodes_count": 12,
+      "release_date": "2024-01-15",
+      "end_date": "2024-04-01",
+      "description": "Kaito decouvre son pouvoir et commence sa quete de vengeance contre ceux qui l'ont trahi.",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "title": "La Trahison du Donjon Oublie",
+          "description": "Kaito est trahi par son equipe et laisse pour mort, mais il decouvre son pouvoir de gacha de niveau 9999.",
+          "air_date": "2024-01-15",
+          "duration": "24",
+          "thumbnail": "https://image.tmdb.org/t/p/original/lCNKJ7N6wY1Oh5BreKIG9xBu5bX.jpg",
+          "video": {
+            "url": "https://ptb.rdmfile.eu/iframe/my-gift-9999-ep1",
+            "lang": "fr",
+            "quality": "1080p",
+            "pub": 0
+          }
+        },
+        {
+          "episode_number": 2,
+          "title": "Le Premier Tirage",
+          "description": "Kaito utilise son gacha pour la premiere fois et obtient une arme legendaire.",
+          "air_date": "2024-01-22",
+          "duration": "24",
+          "thumbnail": "https://image.tmdb.org/t/p/original/episode2-thumb.jpg",
+          "video": {
+            "url": "",
+            "lang": "fr",
+            "quality": "1080p",
+            "pub": 0
+          }
+        },
+        {
+          "episode_number": 3,
+          "title": "Les Nouveaux Allies",
+          "description": "Kaito rencontre Luna et Shadow, qui deviennent ses premiers allies de confiance.",
+          "air_date": "2024-01-29",
+          "duration": "24",
+          "thumbnail": "https://image.tmdb.org/t/p/original/episode3-thumb.jpg",
+          "video": {
+            "url": "",
+            "lang": "fr",
+            "quality": "1080p",
+            "pub": 0
+          }
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {"name": "Yuki Tanaka", "character": "Kaito (voix)", "image": "/cast/yuki-tanaka.jpg"},
+    {"name": "Sakura Miyamoto", "character": "Luna (voix)", "image": "/cast/sakura-miyamoto.jpg"},
+    {"name": "Ryo Nakamura", "character": "Shadow (voix)", "image": "/cast/ryo-nakamura.jpg"},
+    {"name": "Akihiro Sato", "character": "Master Ryu (voix)", "image": "/cast/akihiro-sato.jpg"},
+    {"name": "Mei Chen", "character": "Princess Sakura (voix)", "image": "/cast/mei-chen.jpg"}
+  ],
+  "reviews": [
+    {"id": 1, "author": "Anime Fan", "rating": 5, "comment": "Une serie incroyable avec des pouvoirs OP et une histoire de vengeance captivante !", "date": "2024-02-01"},
+    {"id": 2, "author": "Critique Anime", "rating": 4, "comment": "L'animation est superbe et le systeme de gacha est bien integre a l'intrigue.", "date": "2024-02-05"}
+  ],
+  "tags": ["isekai", "fantasy", "revenge", "overpowered", "gacha", "adventure"],
+  "popularity": 92,
+  "views": 12500000,
+  "created_at": "2024-01-01T00:00:00Z",
+  "updated_at": "2025-01-12T15:45:00Z"
+}

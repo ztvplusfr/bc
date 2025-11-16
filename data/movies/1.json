@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "title": "Black Phone 2",
+  "original_title": "Black Phone 2",
+  "description": "La suite terrifiante du film d'horreur Black Phone. Un jeune garçon est kidnappé par un tueur en série et doit utiliser un téléphone noir mystérieux pour communiquer avec les victimes précédentes et trouver un moyen de s'échapper.",
+  "poster": "https://image.tmdb.org/t/p/original/pCVQI80TC6c2zKmodhuAQ3M7kEb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jgiJZOJ57BcbeMKeiBGBzW3A84j.jpg",
+  "age_rating": "18+",
+  "rating": 6.8,
+  "year": "2025",
+  "release_date": "2025-06-28",
+  "duration": "102",
+  "genre": ["Horreur", "Thriller", "Mystère"],
+  "episodes": null,
+  "seasons": null,
+  "status": "Terminé",
+  "studio": "Blumhouse Productions",
+  "director": "Stephen Susco",
+  "language": "Français",
+  "subtitles": ["Français", "Anglais", "Espagnol", "Allemand"],
+  "trailer": "https://www.youtube.com/embed/example-black-phone-2",
+  "streaming_url": "/stream/black-phone-2",
+  "related_movies": [2, 3, 4],
+  "cast": [
+    {"name": "Ethan Hawke", "character": "L'Attrapeur", "image": "/cast/ethan-hawke.jpg"},
+    {"name": "Mason Thames", "character": "Finney Shaw", "image": "/cast/mason-thames.jpg"},
+    {"name": "Madeleine McGraw", "character": "Robin Shaw", "image": "/cast/madeleine-mcgraw.jpg"},
+    {"name": "James Ransone", "character": "Max Shaw", "image": "/cast/james-ransone.jpg"},
+    {"name": "Tristan Pravong", "character": "Mark", "image": "/cast/tristan-pravong.jpg"}
+  ],
+  "reviews": [
+    {"id": 1, "author": "Critique Horror", "rating": 4, "comment": "Une suite prometteuse qui maintient la tension de l'original.", "date": "2025-01-10"},
+    {"id": 2, "author": "Fan Thriller", "rating": 5, "comment": "Encore plus effrayant que le premier ! Ne peut pas attendre.", "date": "2025-01-12"}
+  ],
+  "tags": ["horreur", "enlèvement", "tueur", "surnaturel", "suspense"],
+  "popularity": 88,
+  "views": 8500000,
+  "video": {
+    "url": "https://ptb.rdmfile.eu/iframe/3ffcf825",
+    "lang": "fr",
+    "quality": "1080p",
+    "pub": 0
+  },
+  "created_at": "2024-01-01T00:00:00Z",
+  "updated_at": "2025-11-15T15:45:00Z"
+}
